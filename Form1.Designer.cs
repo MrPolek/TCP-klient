@@ -43,6 +43,7 @@
             this.przyciskpolacz.TabIndex = 0;
             this.przyciskpolacz.Text = "polacz";
             this.przyciskpolacz.UseVisualStyleBackColor = true;
+            this.przyciskpolacz.Click += new System.EventHandler(this.przyciskpolacz_Click);
             // 
             // infoopolaczeniu
             // 
